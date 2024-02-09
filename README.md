@@ -1,4 +1,4 @@
-#NINJA GAME
+# NINJA GAME
 
 This is my version of DaFluffyPotato's NINJA GAME from his Pygame Platformer Tutorial.
 
