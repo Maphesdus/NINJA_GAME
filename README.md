@@ -4,6 +4,4 @@ This is my version of DaFluffyPotato's NINJA GAME from his Pygame Platformer Tut
 
 I am following his tutorial in order to learn Python.
 
-Pygame Platformer Tutorial - Full Course
-
-https://www.youtube.com/watch?v=2gABYM5M0ww
+Pygame Platformer Tutorial - Full Course: https://www.youtube.com/watch?v=2gABYM5M0ww
